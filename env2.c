@@ -26,7 +26,7 @@ char *copy_info(char *name, char *value)
 }
 
 /**
- * set_env - sets an environment variable
+ * set_env - set an environment variable
  *
  * @name: name of the environment variable
  * @value: value of the environment variable

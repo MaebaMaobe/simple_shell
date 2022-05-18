@@ -21,7 +21,7 @@ extern char **environ;
 
 
 /**
- * struct data - struct that contains all relevant data on runtime
+ * struct data - struct that contain all relevant data on runtime
  * @av: argument vector
  * @input: command line written by the user
  * @args: tokens of the command line
