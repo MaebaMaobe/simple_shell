@@ -26,7 +26,7 @@ extern char **environ;
  * @input: command line written by the user
  * @args: tokens of the command line
  * @status: last status of the shell
- * @counter: lines counter 
+ * @counter: lines counter
 * @_environ: environment variable
  * @pid: process ID of the shell
  */
